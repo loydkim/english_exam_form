@@ -1,6 +1,6 @@
-# englishexamtest
+# English exam form
 
-<img src="https://github.com/loydkim/english_exam_form/blob/master/takingenglishexam.gif" width="300" height="560">
+<img src="https://github.com/loydkim/english_exam_form/blob/master/takingenglishexam.gif" width="340" height="560">
 
 * Develop environment.
 
@@ -11,7 +11,7 @@
 - Android Studio: 3.6.2
 - OS Version: MacOS Catalina 10.15.4
 
-#Flutter, #FlutterGoogleMap, #SwiftUI
+#Flutter, #EnglishExamForm, #SwiftUI
 
 ## Getting Started
 
